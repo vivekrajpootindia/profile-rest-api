@@ -7,7 +7,7 @@ cryptography==1.2.3
 Django==1.11
 djangorestframework==3.6.2
 idna==2.0
-Jinja2==2.8
+Jinja2==2.11.3
 jsonpatch==1.10
 jsonpointer==1.9
 language-selector==0.1
